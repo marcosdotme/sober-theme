@@ -1,0 +1,8 @@
+GATITO
+    "editor.background": "#252B2E"
+
+ATOM ONE DARK
+    "editor.background": "#292C34"
+
+ONE DARK MODERN
+    "editor.background": "#313846"

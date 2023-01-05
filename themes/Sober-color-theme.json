@@ -1,0 +1,38 @@
+{
+	"name": "Sober",
+	"colors": {
+		"editor.background": "#292C33",
+		"editor.foreground": "#eeffff",
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#808899"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": [
+				"keyword.control.import.python",
+				"keyword.control.flow.python",
+
+				"keyword.operator.assignment.python",
+				"keyword.operator.arithmetic.python",
+
+				"storage.type",
+				"storage.type.class.python",
+				"storage.type.function.python"
+
+			],
+			"settings": {
+				"foreground": "#C594C5"
+			}
+		},
+	]
+}
